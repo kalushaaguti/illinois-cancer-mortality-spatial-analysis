@@ -110,6 +110,14 @@ Data Collection → Data Cleaning → Join to Counties → Mapping → Spatial A
 
 ---
 
+## Map Samples
+![Mortality Map](maps/Cancer_Mortality_Map_2020.png)
+![Poverty Map](maps/Poverty_Map_2020.png)
+![LISA Map](maps/LISA_Map_Final.png)
+
+## Statistical Plot
+![Scatterplot](plots/Mortality_vs_Poverty_Scatter.png)
+
 ## Why This Project Matters
 This project demonstrates how combining spatial statistics and regression analysis can reveal geographic health disparities and support data-driven public health decisions.
 
